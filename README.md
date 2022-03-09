@@ -40,6 +40,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+I had alot of trouble merging the correct files into GitHub. Certain files were marked as hidden and wouldn't upload when pushed.
 
 ## Open-source libraries used
 
