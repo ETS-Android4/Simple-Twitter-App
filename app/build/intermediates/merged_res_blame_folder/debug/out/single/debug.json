@@ -68,7 +68,15 @@
         "source": "C:\\Users\\crowl\\OneDrive\\Desktop\\CodePath\\android-rest-client-template-kotlin-main\\SimpleTweet\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
+        "merged": "C:\\Users\\crowl\\OneDrive\\Desktop\\CodePath\\android-rest-client-template-kotlin-main\\SimpleTweet\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\crowl\\OneDrive\\Desktop\\CodePath\\android-rest-client-template-kotlin-main\\SimpleTweet\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
         "merged": "C:\\Users\\crowl\\OneDrive\\Desktop\\CodePath\\android-rest-client-template-kotlin-main\\SimpleTweet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\crowl\\OneDrive\\Desktop\\CodePath\\android-rest-client-template-kotlin-main\\SimpleTweet\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\crowl\\OneDrive\\Desktop\\CodePath\\android-rest-client-template-kotlin-main\\SimpleTweet\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_compose.xml.flat",
+        "source": "C:\\Users\\crowl\\OneDrive\\Desktop\\CodePath\\android-rest-client-template-kotlin-main\\SimpleTweet\\app\\src\\main\\res\\layout\\activity_compose.xml"
     }
 ]
