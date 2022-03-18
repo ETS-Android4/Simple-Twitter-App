@@ -98,7 +98,6 @@ class TimelineActivity : AppCompatActivity() {
                 } catch (e: JSONException) {
                     Log.e(TAG, "JSON Exception $e")
                 }
-
             }
 
             override fun onFailure(
