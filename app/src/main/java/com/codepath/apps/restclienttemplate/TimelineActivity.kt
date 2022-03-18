@@ -73,7 +73,6 @@ class TimelineActivity : AppCompatActivity() {
             val tweet = data?.getParcelableExtra("tweet") as Tweet
 
             tweets.add(0, tweet)
-
             adapter.notifyItemInserted(0)
             rvTweets.smoothScrollToPosition(0)
         }
